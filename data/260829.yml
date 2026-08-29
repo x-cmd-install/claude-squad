@@ -1,0 +1,60 @@
+about:
+  description: Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
+  license: AGPL-3.0
+  homepage: https://smtg-ai.github.io/claude-squad/
+  head: ce1ffb4
+  archived: false
+  latestVersion: v1.0.20
+  collectedAt: 2026-08-29T07:08:51Z
+timeline:
+  created: 2025-03-09
+  lastCommit: 2026-08-20
+  lastRelease: 2026-08-20
+popularity:
+  star: 8388
+  watcher: 29
+  fork: 615
+  release: 20
+  contributor: 20
+  pullRequest: 99
+  issue: 133
+language:
+  Go: 263347
+  Shell: 12379
+  TypeScript: 8682
+  CSS: 8426
+  JavaScript: 393
+totalLine: 293227
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 1
+    openPR: 3
+    closedIssue: 0
+    openIssue: 1
+    commit: 2
+  last90d:
+    since: 2026-05-31
+    release: 2
+    mergedPR: 4
+    openPR: 8
+    closedIssue: 1
+    openIssue: 3
+    commit: 6
+  last180d:
+    since: 2026-03-02
+    release: 4
+    mergedPR: 13
+    openPR: 19
+    closedIssue: 5
+    openIssue: 13
+    commit: 18
+  last360d:
+    since: 2025-09-03
+    release: 6
+    mergedPR: 20
+    openPR: 25
+    closedIssue: 24
+    openIssue: 16
+    commit: 27
