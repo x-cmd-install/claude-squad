@@ -5,15 +5,15 @@ about:
   head: ce1ffb4
   archived: false
   latestVersion: "v1.0.20"
-  collectedAt: 2026-09-07T04:58:47Z
+  collectedAt: 2026-09-07T19:40:24Z
 timeline:
   created: 2025-03-09
   lastCommit: 2026-08-20
   lastRelease: 2026-08-20
 popularity:
-  star: 8441
+  star: 8443
   watcher: 30
-  fork: 618
+  fork: 620
   release: 20
   contributor: 20
   pullRequest: 178
@@ -83,7 +83,7 @@ total:
   commit: 222
 ---
 path: /home/runner/.x-repo/github.com/smtg-ai/claude-squad
-collectedAt: 2026-09-07T04:58:47Z
+collectedAt: 2026-09-07T19:40:28Z
 loc:
   Go:
     code: 7028
@@ -139,7 +139,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:58:48+00:00
+  collectedAt: 2026-09-07T19:40:34+00:00
   platform:
     darwin/arm64:
       name:  claude-squad_1.0.20_darwin_arm64.tar.gz
