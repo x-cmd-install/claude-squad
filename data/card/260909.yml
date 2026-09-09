@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.20"
   latestRelease: "v1.0.20"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:07:04Z
+  collectedAt: 2026-09-09T18:59:04Z
 timeline:
   created: 2025-03-09
   lastCommit: 2026-08-20
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-20
   lastPrerelease: 
 popularity:
-  star: 8453
+  star: 8462
   watcher: 30
-  fork: 619
+  fork: 620
   release: 20
   contributor: 20
   pullRequest: 178
@@ -87,7 +87,7 @@ total:
   commit: 222
 ---
 path: /home/runner/.x-repo/github.com/smtg-ai/claude-squad
-collectedAt: 2026-09-09T05:07:05Z
+collectedAt: 2026-09-09T18:59:05Z
 loc:
   Go:
     code: 7028
