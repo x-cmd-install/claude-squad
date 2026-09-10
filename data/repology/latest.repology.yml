@@ -1,0 +1,38 @@
+- repo: aur
+  srcname: claude-squad
+  binname: claude-squad
+  visiblename: claude-squad
+  version: 1.0.20
+  origversion: 1.0.20-1
+  status: newest
+  summary: Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode and Amp
+  maintainers:
+    - bbj@aur
+  licenses:
+    - AGPL-3.0-or-later
+- repo: aur
+  srcname: claude-squad-bin
+  binname: claude-squad-bin
+  visiblename: claude-squad-bin
+  version: 1.0.20
+  origversion: 1.0.20-1
+  status: newest
+  summary: Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode and Amp
+  maintainers:
+    - bbj@aur
+  licenses:
+    - AGPL-3.0-or-later
+- repo: homebrew
+  srcname: claude-squad
+  visiblename: claude-squad
+  version: 1.0.20
+  origversion: null
+  status: newest
+  summary: Manage multiple AI agents like Claude Code, Aider and Codex in your terminal
+- repo: homebrew
+  srcname: claude-squad
+  visiblename: claude-squad
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Manage multiple AI agents like Claude Code, Aider and Codex in your terminal
