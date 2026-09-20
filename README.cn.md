@@ -4,7 +4,7 @@
 
 Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 
-![claude-squad](https://repo.x-cmd.io/claude-squad.svg?lang=zh)
+[![x-cmd/install — claude-squad Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claude-squad.svg?lang=zh)](https://x-cmd.com/install/claude-squad)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install claude-squad
 
 ## 流行度
 
-- **Star**: 8,490 · **Fork**: 618 · **开放 issue**: 133 · **贡献者**: 20
+- **Star**: 8,500 · **Fork**: 619 · **开放 issue**: 133 · **贡献者**: 20
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 76 · **开放 PR**: 38 · **已关闭 issue**: 114 · **开放 issue**: 19 · **提交数**: 222
+- **发布数**: 20 · **已合并 PR**: 76 · **开放 PR**: 39 · **已关闭 issue**: 114 · **开放 issue**: 19 · **提交数**: 222
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 1 | 2 | 7 | 0 | 1 | 3 |
-| 90d | 2026-06-20 | 1 | 2 | 10 | 0 | 3 | 3 |
-| last180d | 2026-03-22 | 3 | 9 | 17 | 5 | 11 | 13 |
-| 360d | 2025-09-23 | 6 | 20 | 25 | 18 | 16 | 27 |
-| last720d | 2024-09-28 | 20 | 76 | 38 | 114 | 19 | 222 |
+| 30d | 2026-08-21 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 1 | 2 | 8 | 0 | 1 | 3 |
+| 90d | 2026-06-22 | 1 | 2 | 11 | 0 | 3 | 3 |
+| last180d | 2026-03-24 | 3 | 9 | 18 | 5 | 11 | 13 |
+| 360d | 2025-09-25 | 6 | 20 | 26 | 16 | 16 | 27 |
+| last720d | 2024-09-30 | 20 | 76 | 39 | 114 | 19 | 222 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ claude-squad 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:17:21Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:19:14Z._

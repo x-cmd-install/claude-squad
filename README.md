@@ -4,7 +4,7 @@
 
 Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 
-![claude-squad](https://repo.x-cmd.io/claude-squad.svg)
+[![x-cmd/install — claude-squad Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claude-squad.svg)](https://x-cmd.com/install/claude-squad)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **13,313** lines of code across **63** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,490 · **Forks**: 618 · **Open issues**: 133 · **Contributors**: 20
+- **Stars**: 8,500 · **Forks**: 619 · **Open issues**: 133 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 76 · **Open PRs**: 38 · **Closed issues**: 114 · **Open issues**: 19 · **Commits**: 222
+- **Releases**: 20 · **Merged PRs**: 76 · **Open PRs**: 39 · **Closed issues**: 114 · **Open issues**: 19 · **Commits**: 222
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 1 | 2 | 7 | 0 | 1 | 3 |
-| 90d | 2026-06-20 | 1 | 2 | 10 | 0 | 3 | 3 |
-| last180d | 2026-03-22 | 3 | 9 | 17 | 5 | 11 | 13 |
-| 360d | 2025-09-23 | 6 | 20 | 25 | 18 | 16 | 27 |
-| last720d | 2024-09-28 | 20 | 76 | 38 | 114 | 19 | 222 |
+| 30d | 2026-08-21 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 1 | 2 | 8 | 0 | 1 | 3 |
+| 90d | 2026-06-22 | 1 | 2 | 11 | 0 | 3 | 3 |
+| last180d | 2026-03-24 | 3 | 9 | 18 | 5 | 11 | 13 |
+| 360d | 2025-09-25 | 6 | 20 | 26 | 16 | 16 | 27 |
+| last720d | 2024-09-30 | 20 | 76 | 39 | 114 | 19 | 222 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for claude-squad lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:17:20Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:19:14Z._
