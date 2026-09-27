@@ -38,22 +38,22 @@ Total: **13,313** lines of code across **63** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,533 · **Forks**: 621 · **Open issues**: 133 · **Contributors**: 20
+- **Stars**: 8,536 · **Forks**: 621 · **Open issues**: 133 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 76 · **Open PRs**: 39 · **Closed issues**: 116 · **Open issues**: 17 · **Commits**: 222
+- **Releases**: 20 · **Merged PRs**: 76 · **Open PRs**: 39 · **Closed issues**: 117 · **Open issues**: 16 · **Commits**: 222
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-28 | 1 | 1 | 6 | 0 | 1 | 3 |
-| 90d | 2026-06-28 | 1 | 2 | 9 | 0 | 3 | 3 |
-| last180d | 2026-03-30 | 3 | 9 | 17 | 5 | 10 | 12 |
-| 360d | 2025-10-01 | 6 | 20 | 26 | 17 | 14 | 27 |
-| last720d | 2024-10-06 | 20 | 76 | 39 | 116 | 17 | 222 |
+| 30d | 2026-08-28 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-29 | 1 | 1 | 6 | 0 | 1 | 3 |
+| 90d | 2026-06-29 | 1 | 2 | 9 | 0 | 3 | 3 |
+| last180d | 2026-03-31 | 3 | 9 | 17 | 5 | 10 | 12 |
+| 360d | 2025-10-02 | 6 | 20 | 26 | 18 | 13 | 27 |
+| last720d | 2024-10-07 | 20 | 76 | 39 | 117 | 16 | 222 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for claude-squad lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:20:30Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:37:24Z._
