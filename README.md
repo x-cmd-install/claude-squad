@@ -14,11 +14,11 @@ x install claude-squad
 
 ## Code insight
 
-Total: **13,313** lines of code across **63** files in the top 5 languages.
+Total: **13,309** lines of code across **63** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 7,028 | 1,044 | 1,320 | 48 |
+| Go | 7,024 | 1,043 | 1,320 | 48 |
 | Json | 5,321 | 0 | 0 | 3 |
 | Css | 434 | 2 | 68 | 4 |
 | Sh | 292 | 27 | 55 | 4 |
@@ -33,27 +33,27 @@ Total: **13,313** lines of code across **63** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.20` (2026-08-20)
-- **Last commit**: 2026-08-20
+- **Last commit**: 2026-11-13
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 8,793 · **Forks**: 632 · **Open issues**: 134 · **Contributors**: 20
+- **Stars**: 8,805 · **Forks**: 634 · **Open issues**: 134 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 76 · **Open PRs**: 38 · **Closed issues**: 119 · **Open issues**: 15 · **Commits**: 222
+- **Releases**: 20 · **Merged PRs**: 77 · **Open PRs**: 37 · **Closed issues**: 119 · **Open issues**: 15 · **Commits**: 223
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-09-14 | 0 | 0 | 5 | 0 | 1 | 0 |
-| 90d | 2026-08-15 | 1 | 1 | 9 | 0 | 2 | 2 |
-| last180d | 2026-05-17 | 3 | 5 | 13 | 2 | 7 | 9 |
-| 360d | 2025-11-18 | 6 | 20 | 26 | 19 | 12 | 27 |
-| last720d | 2024-11-23 | 20 | 76 | 38 | 119 | 15 | 222 |
+| 30d | 2026-10-15 | 0 | 1 | 3 | 0 | 1 | 1 |
+| last60d | 2026-09-15 | 0 | 1 | 4 | 0 | 1 | 1 |
+| 90d | 2026-08-16 | 1 | 2 | 8 | 0 | 2 | 3 |
+| last180d | 2026-05-18 | 3 | 5 | 12 | 2 | 7 | 10 |
+| 360d | 2025-11-19 | 6 | 20 | 25 | 18 | 12 | 28 |
+| last720d | 2024-11-24 | 20 | 77 | 37 | 119 | 15 | 223 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for claude-squad lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:22:34Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:57:21Z._
