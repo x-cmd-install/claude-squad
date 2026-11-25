@@ -38,7 +38,7 @@ Total: **13,309** lines of code across **63** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,862 · **Forks**: 639 · **Open issues**: 134 · **Contributors**: 21
+- **Stars**: 8,866 · **Forks**: 640 · **Open issues**: 134 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **13,309** lines of code across **63** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 1 | 5 | 0 | 1 | 1 |
-| last60d | 2026-09-25 | 0 | 1 | 5 | 0 | 1 | 1 |
-| 90d | 2026-08-26 | 0 | 1 | 9 | 0 | 2 | 1 |
-| last180d | 2026-05-28 | 2 | 5 | 13 | 1 | 5 | 7 |
-| 360d | 2025-11-29 | 6 | 20 | 27 | 17 | 12 | 27 |
-| last720d | 2024-12-04 | 20 | 77 | 39 | 119 | 15 | 223 |
+| 30d | 2026-10-26 | 0 | 1 | 5 | 0 | 1 | 1 |
+| last60d | 2026-09-26 | 0 | 1 | 5 | 0 | 1 | 1 |
+| 90d | 2026-08-27 | 0 | 1 | 9 | 0 | 2 | 1 |
+| last180d | 2026-05-29 | 2 | 5 | 13 | 1 | 5 | 7 |
+| 360d | 2025-11-30 | 6 | 20 | 27 | 17 | 12 | 27 |
+| last720d | 2024-12-05 | 20 | 77 | 39 | 119 | 15 | 223 |
 
 ## Release assets
 
@@ -67,14 +67,6 @@ Total: **13,309** lines of code across **63** files in the top 5 languages.
 | [claude-squad_1.0.20_windows_amd64.zip](https://github.com/smtg-ai/claude-squad/releases/download/v1.0.20/claude-squad_1.0.20_windows_amd64.zip) | 1.9 MiB | `native/win/x64` |
 | [claude-squad_1.0.20_windows_arm64.zip](https://github.com/smtg-ai/claude-squad/releases/download/v1.0.20/claude-squad_1.0.20_windows_arm64.zip) | 1.7 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/claude-squad). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.0.20` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for claude-squad lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `claude-squad` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +76,4 @@ Install metadata for claude-squad lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:04:46Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:15:58Z._
